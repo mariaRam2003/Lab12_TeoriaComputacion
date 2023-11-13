@@ -5,13 +5,13 @@ D = [{'make': 'Nokia', 'model': 216, 'color': 'Black'},
      {'make': 'Samsung', 'model': 7, 'color': 'Blue'}]
 
 # Otro diccionario para probar
-D = [{'make': 'Toyota', 'model': 'Camry', 'year': 2022},
-     {'make': 'Honda', 'model': 'Civic', 'year': 2021},
-     {'make': 'Ford', 'model': 'Mustang', 'year': 2023},
-     {'make': 'Chevrolet', 'model': 'Malibu', 'year': 2020}]
+# D = [{'make': 'Toyota', 'model': 'Camry', 'year': 2022},
+#      {'make': 'Honda', 'model': 'Civic', 'year': 2021},
+#      {'make': 'Ford', 'model': 'Mustang', 'year': 2023},
+#      {'make': 'Chevrolet', 'model': 'Malibu', 'year': 2020}]
 
 # Clave para ordenar la lista de diccionarios
-key_to_sort = 'color'
+key_to_sort = 'make'
 
 # otra clave para probar
 # key_to_sort = 'year'
